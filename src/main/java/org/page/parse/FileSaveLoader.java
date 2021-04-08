@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 import java.util.Map;
 
 /**
- *  Класс FileSaveLoader содержит медоты для сохранения текстовых данных, в файлы на жестком диске
+ * Класс FileSaveLoader содержит медоты для сохранения текстовых данных, в файлы на жестком диске
  */
 public class FileSaveLoader {
     private static String folderPath = ".//temp//";

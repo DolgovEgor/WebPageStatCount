@@ -10,6 +10,7 @@ import java.util.Arrays;
 public class TextConverter {
     /**
      * Пребразовать HTML-код в обычный текст
+     *
      * @param htmlString - HTML-код вэб-страницы
      * @return - обчыный текст без тэгов HTML
      */
@@ -20,7 +21,8 @@ public class TextConverter {
 
     /**
      * Разделить текст на массив строк
-     * @param text - текст для разделения
+     *
+     * @param text           - текст для разделения
      * @param splittersArray - массив разделителей
      * @return - масстив строк
      */

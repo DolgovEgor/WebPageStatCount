@@ -25,6 +25,7 @@ public class StatCounter {
                 wordStat.put(i, 1);
             }
         }
+        wordStat.remove("");
         return wordStat;
     }
 }
